@@ -5,7 +5,7 @@ Personal templates for develop environments I use - most are very basic.
 Usage:
 
 ```sh
-nix flake new --template <git:repo/local-directory>#<template-name> <project-directory>
+nix flake new --template <git-repo/local-directory>#<template-name> <project-directory>
 ```
 
 E.g:
